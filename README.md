@@ -1,6 +1,6 @@
-<h2 align="center"> Hi there 👋, I'm **Gabriel Katta** </h2>
+<h2 align="center"> Hi there 👋, I'm <b>Gabriel Katta</b> </h2>
 
-<h1 align="center"> ## *Software Developer & Computer Engineering Student* </h1>
+<h3 align="center"> Software Developer & Computer Engineering Student </h3>
 
 
 I'm a software developer at MercadoLibre / Computer Engineering Student at the University of Buenos Aires.
