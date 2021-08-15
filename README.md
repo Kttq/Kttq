@@ -1,5 +1,5 @@
 <h1 align="center"> Gabriel Katta </h1>
-I'm a software developer at MercadoLibre / Computer Engineering Student at the University of Buenos Aires.
+<center>I'm a software developer at MercadoLibre / Computer Engineering Student at the University of Buenos Aires.</center>
 
 👾 Skills and Technologies 💻
 ----------------------------------------
