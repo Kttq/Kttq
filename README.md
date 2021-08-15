@@ -12,8 +12,11 @@
 <img src = "https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
 </div>
 
+<div align="center" 
 [![Kttq's GitHub
 stats](https://github-readme-stats.vercel.app/api?username=Kttq&theme=vue-dark&show_icons=true&include_all_commits=true&count_private=true&line_height=40&disable_animations=true)](https://github.com/anuraghazra/github-readme-stats)
+       
+<div>
 
 
 
