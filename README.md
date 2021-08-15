@@ -1,4 +1,4 @@
-<h1 align="center"> Hey ✌🏻 I'm Gabriel Katta </h1>
+<h1 align="center"> Hi! I'm Gabriel Katta 🇻🇪</h1>
 
 - 💻  Software Development Analyst at Mercadolibre.
 - 📓  Computer Engineering Student at University of Buenos Aires.
