@@ -1,5 +1,5 @@
-<p align="center">
-  # Hi there 👋, I'm **Gabriel Katta**
+#<p align="center">
+   Hi there 👋, I'm **Gabriel Katta**
 </p>
 ## *Software Developer & Computer Engineering Student*
 
