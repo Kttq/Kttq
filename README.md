@@ -1,4 +1,4 @@
-<h1 align="left"><b>Gabriel Katta ⚛︎ </b></h1>
+<h1 align="left"><b>Gabriel Katta ⚔︎ </b></h1>
 
 - 💻  Software Developer at Mercadolibre.
 - 📓  Computer Engineering Student at University of Buenos Aires.
