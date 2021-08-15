@@ -5,14 +5,12 @@
 
 I'm a software developer at MercadoLibre / Computer Engineering Student at the University of Buenos Aires.
 
-Some of my skills are:
-
+    👾 Skills and Technologies 💻
+----------------------------------------
 * 💥 C
 * ☕️ Java 
 * ⏺ SmallTalk / Object Oriented Design
 * 🐍 Python
 * 🌱 SpringBoot Dev
-
-![GitHub metrics](https://metrics.lecoq.io/Kttq)  
-
+----------------------------------------
 
