@@ -1,5 +1,3 @@
-![*Software Developer & Computer Engineering Student*](https://github.com/Kttq/Kttq/blob/main/profileBanner2.jpeg)
-
 # Hi there 👋, I'm **Gabriel Katta**
 
 ## *Software Developer & Computer Engineering Student*
