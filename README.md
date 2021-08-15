@@ -1,6 +1,6 @@
 <h1 align="left"><b>Gabriel Katta</b></h1>
 
-- 💻  Software Development Analyst at Mercadolibre.
+- 💻  Software Developer at Mercadolibre.
 - 📓  Computer Engineering Student at University of Buenos Aires.
 -------
 
