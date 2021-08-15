@@ -1,9 +1,10 @@
 <h1 align="center"> Hey ✌🏻 I'm Gabriel Katta </h1>
-<h3 align="left">I'm a software developer at MercadoLibre / Computer Engineering Student at the University of Buenos Aires.</h3>
 
+- 💻  Software Development Analyst at Mercadolibre.
+- 📓  Computer Engineering Student at University of Buenos Aires.
+-------
 
-
-⚡️ Skills and Technologies
+### ⚡️ Skills and Technologies
 ----------------------------------------
 <div>
 <img src = "https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
