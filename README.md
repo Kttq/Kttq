@@ -5,7 +5,7 @@
 
 I'm a software developer at MercadoLibre / Computer Engineering Student at the University of Buenos Aires.
 
-    👾 Skills and Technologies 💻
+👾 Skills and Technologies 💻
 ----------------------------------------
 * 💥 C
 * ☕️ Java 
